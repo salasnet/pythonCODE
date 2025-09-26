@@ -1,5 +1,5 @@
-# pythonPINE
-PINE Python Code Files
+# pythonCODE
+Python Code Files
 
 Remove from Git Repo (git remote rm origin)
 To fix sync problem (git push --set-upstream origin main)
