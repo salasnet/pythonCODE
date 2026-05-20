@@ -12,7 +12,9 @@ To fix sync problem (git push --set-upstream origin main)
 
 [Markdown Formatting](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
-[PythonPINE Github](https://github.com/salasPINE/pythonCODE)
+
+[PythonPINE Github](https://github.com/salasPINE)
+
 
 ### Python Turtle
 [Turtle Documentation](https://docs.python.org/3/library/turtle.html)
